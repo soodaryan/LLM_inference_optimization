@@ -68,15 +68,6 @@ This repository contains an assignment focused on optimizing large language mode
 📂 [Google Drive Link to Dataset and Resources](https://drive.google.com/file/d/12mpOL1n_c48qV99zXd4ir9hlboGcHAXV/view?usp=sharing)
 
 
-
-<li>Video Recording: click on the image to view demo
-            <a href = "https://drive.google.com/file/d/12mpOL1n_c48qV99zXd4ir9hlboGcHAXV/view?usp=sharing=">
-                <p align="center">
-                <img src="images/Screenshot 2024-08-31 at 8.33.34 PM.png" alt="SignPal Solution" />
-            </p>
-
-
-
               
 ## ⚖️ License
 

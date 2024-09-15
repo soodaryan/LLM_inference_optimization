@@ -63,9 +63,9 @@ This repository contains an assignment focused on optimizing large language mode
 - [AWQ: Automatic Weight Quantization](https://github.com/mit-han-lab/llm-awq) 🌟
 
 ## 📸 Image and Drive Link
-
+< a href = https://drive.google.com/file/d/12mpOL1n_c48qV99zXd4ir9hlboGcHAXV/view?usp=sharing">
 ![Optimized Model Inference](gradio_interface.png)  
-📂 [Google Drive Link to Dataset and Resources](https://drive.google.com/file/d/12mpOL1n_c48qV99zXd4ir9hlboGcHAXV/view?usp=sharing)
+</a>
 
 
               
